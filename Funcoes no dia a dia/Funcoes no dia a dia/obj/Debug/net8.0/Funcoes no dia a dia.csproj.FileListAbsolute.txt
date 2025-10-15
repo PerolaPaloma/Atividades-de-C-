@@ -1,0 +1,14 @@
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\bin\Debug\net8.0\Funcoes no dia a dia.exe
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\bin\Debug\net8.0\Funcoes no dia a dia.deps.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\bin\Debug\net8.0\Funcoes no dia a dia.runtimeconfig.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\bin\Debug\net8.0\Funcoes no dia a dia.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\bin\Debug\net8.0\Funcoes no dia a dia.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.AssemblyInfoInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.AssemblyInfo.cs
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.csproj.CoreCompileInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\refint\Funcoes no dia a dia.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\Funcoes no dia a dia.genruntimeconfig.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Atividade 03\Funcoes no dia a dia\Funcoes no dia a dia\obj\Debug\net8.0\ref\Funcoes no dia a dia.dll

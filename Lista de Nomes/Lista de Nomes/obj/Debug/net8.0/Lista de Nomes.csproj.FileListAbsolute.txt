@@ -1,0 +1,14 @@
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\bin\Debug\net8.0\Lista de Nomes.exe
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\bin\Debug\net8.0\Lista de Nomes.deps.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\bin\Debug\net8.0\Lista de Nomes.runtimeconfig.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\bin\Debug\net8.0\Lista de Nomes.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\bin\Debug\net8.0\Lista de Nomes.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.AssemblyInfoInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.AssemblyInfo.cs
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.csproj.CoreCompileInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\refint\Lista de Nomes.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\Lista de Nomes.genruntimeconfig.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\Lista de Nomes\Lista de Nomes\obj\Debug\net8.0\ref\Lista de Nomes.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Funcoes no dia a dia/1.0.0": {
+        "runtime": {
+          "Funcoes no dia a dia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funcoes no dia a dia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
