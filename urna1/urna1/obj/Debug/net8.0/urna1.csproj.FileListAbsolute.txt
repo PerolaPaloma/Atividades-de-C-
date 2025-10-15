@@ -1,0 +1,14 @@
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\bin\Debug\net8.0\urna1.exe
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\bin\Debug\net8.0\urna1.deps.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\bin\Debug\net8.0\urna1.runtimeconfig.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\bin\Debug\net8.0\urna1.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\bin\Debug\net8.0\urna1.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.AssemblyInfoInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.AssemblyInfo.cs
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.csproj.CoreCompileInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\refint\urna1.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\urna1.genruntimeconfig.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\urna1\urna1\obj\Debug\net8.0\ref\urna1.dll

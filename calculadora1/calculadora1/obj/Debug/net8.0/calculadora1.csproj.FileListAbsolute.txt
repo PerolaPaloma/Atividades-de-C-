@@ -1,0 +1,14 @@
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\bin\Debug\net8.0\calculadora1.exe
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\bin\Debug\net8.0\calculadora1.deps.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\bin\Debug\net8.0\calculadora1.runtimeconfig.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\bin\Debug\net8.0\calculadora1.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\bin\Debug\net8.0\calculadora1.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.AssemblyInfoInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.AssemblyInfo.cs
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.csproj.CoreCompileInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\refint\calculadora1.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\calculadora1.genruntimeconfig.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\calculadora1\calculadora1\obj\Debug\net8.0\ref\calculadora1.dll

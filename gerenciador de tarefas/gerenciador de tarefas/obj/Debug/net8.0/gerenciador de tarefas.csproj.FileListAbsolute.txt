@@ -1,0 +1,14 @@
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\bin\Debug\net8.0\gerenciador de tarefas.exe
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\bin\Debug\net8.0\gerenciador de tarefas.deps.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\bin\Debug\net8.0\gerenciador de tarefas.runtimeconfig.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\bin\Debug\net8.0\gerenciador de tarefas.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\bin\Debug\net8.0\gerenciador de tarefas.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.AssemblyInfoInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.AssemblyInfo.cs
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\refint\gerenciador de tarefas.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\gerenciador de tarefas.genruntimeconfig.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\C#\gerenciador de tarefas\gerenciador de tarefas\obj\Debug\net8.0\ref\gerenciador de tarefas.dll
